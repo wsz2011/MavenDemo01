@@ -5,6 +5,7 @@ public class Test2 {
 		System.out.println();
 		System.out.println("right..");		
 		System.out.println("left...");
+		System.out.println("Edit in hot_fix branch)");
 
 	}
 
